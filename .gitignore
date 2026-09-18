@@ -1,0 +1,6 @@
+raw/
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.vscode/
+.DS_Store
