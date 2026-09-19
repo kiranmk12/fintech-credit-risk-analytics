@@ -45,6 +45,11 @@ clean + audit model + load DAX measures findings
 - Custom DAX measures for latest-snapshot exposure, cumulative default by MOB, and policy-defined high-risk segmentation
 - Findings-style chart titles (states the conclusion, not the axes)
 
+**Reporting layer** — `docs/`
+
+- Executive memo summarizing portfolio health, underwriting segmentation, and vintage performance: [Executive_Memo_Portfolio_Health.pdf](docs/Executive_Memo_Portfolio_Health.pdf)
+- Word source file included for editability: [Executive_Memo_Portfolio_Health.docx](docs/Executive_Memo_Portfolio_Health.docx)
+
 ## Key findings
 
 ### Portfolio health (Page 1)
